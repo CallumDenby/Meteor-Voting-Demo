@@ -1,0 +1,33 @@
+html, body, #app {
+  margin: 0 !important;
+  height: 100%;
+}
+
+.container {
+  display: flex;
+  height: 100%
+}
+
+.item {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.counter {
+  font-size: 16rem;
+}
+
+.label {
+  color: white;
+}
+
+.cats {
+  background-color: red;
+}
+
+.dogs {
+  background-color: blue;
+}
