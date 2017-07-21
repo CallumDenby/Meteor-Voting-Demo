@@ -25,9 +25,13 @@ html, body, #app {
 }
 
 .cats {
-  background-color: red;
+  background-color: #FF9F1C;
 }
 
 .dogs {
-  background-color: blue;
+  background-color: black;
+}
+
+.turtles {
+  background-color: #454372;
 }
